@@ -1,0 +1,23 @@
+{
+  "module": "rob-run-radar",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "mapper": {
+      "enabled": true
+    },
+    "streamer": {
+      "enabled": true
+    },
+    "overlay": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
