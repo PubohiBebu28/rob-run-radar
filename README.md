@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="rob-run-radar" width="840" />
-
 # Rob Run Radar — ROB RUN Second-Screen Radar — Live Map Overlay for Looty Bay (Portable x64 Build, JSON Configuration)
 
 <p><strong>Rob Run Radar — ROB RUN Second-Screen Radar — Live Map Overlay for Looty Bay (Portable x64 Build, JSON Configuration): Second-screen radar for Looty Bay — see everything. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.</strong></p>
